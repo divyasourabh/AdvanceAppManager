@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ds.com.advanceappmanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:49:5-67
+11-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:49:22-64
+12
+13    <application
+13-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:5:5-47:19
+14        android:allowBackup="true"
+14-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:6:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0136ca65841c199e13145e51c5d77d51/core-1.1.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:7:9-43
+18        android:label="@string/app_name"
+18-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:8:9-41
+19        android:supportsRtl="true"
+19-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:9:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:10:9-40
+22        <activity android:name="ds.com.advanceappmanager.MainActivity" >
+22-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:11:9-17:20
+22-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:11:19-47
+23            <intent-filter>
+23-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:12:13-16:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:13:17-69
+24-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:13:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:15:17-77
+26-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:15:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <receiver
+30-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:19:9-38:20
+31            android:name="ds.com.advanceappmanager.receivers.AppReceiver"
+31-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:20:13-74
+32            android:enabled="true"
+32-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:21:13-35
+33            android:exported="true" >
+33-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:22:13-36
+34            <intent-filter>
+34-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:23:13-27:29
+35                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+35-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:24:17-81
+35-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:24:25-78
+36
+37                <data android:scheme="package" />
+37-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:26:17-50
+37-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:26:23-47
+38            </intent-filter>
+39            <intent-filter>
+39-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:28:13-32:29
+40                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+40-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:29:17-80
+40-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:29:25-77
+41
+42                <data android:scheme="package" />
+42-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:26:17-50
+42-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:26:23-47
+43            </intent-filter>
+44            <intent-filter>
+44-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:33:13-37:29
+45                <action android:name="android.intent.action.PACKAGE_ADDED" />
+45-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:34:17-78
+45-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:34:25-75
+46
+47                <data android:scheme="package" />
+47-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:26:17-50
+47-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:26:23-47
+48            </intent-filter>
+49        </receiver>
+50
+51        <service
+51-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:40:9-43:47
+52            android:name="services.MyService"
+52-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:41:13-46
+53            android:enabled="true"
+53-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:42:13-35
+54            android:exported="true" />
+54-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:43:13-36
+55
+56        <meta-data
+56-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:44:9-46:72
+57            android:name="io.fabric.ApiKey"
+57-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:45:13-44
+58            android:value="d3c1e367619116721fd70f8323cfa6ba968ee8d2" />
+58-->/home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:46:13-69
+59    </application>
+60
+61</manifest>

@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/383837a1f189d10df3511e6927171459/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/be758b882f94fdc8fda8b461dcaf0c83/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/88d46ce597d410c8d9a1addcd2777129/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/78948776546368d752f57d4af80cff4f/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/6185f9922dbdec258d755400505a7480/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/922d0a7a738b37f00ad7e7b4cbbdb0f3/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/17b125378fc55b264e31eccaff8fa6ca/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/5e8839c5fdf906c0d681ada18dc250c8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/955a6585d7a9c18d6bf6a87f6ee65069/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/4536f117103b705f94cfbc0bddba178d/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/b62690d9dde2a6a00a94a6af7c0f163c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/36abab4db82c302e39d424a4f8f4e29e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/4d1cf7827ab5fc64a2e749e21bd2db69/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/240b5d9dac701614a3199e1fe97e5b6c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/6d12fcce36df08538717b88e14b43a49/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/27bb1a82a352fcc4ad1c98b891d7bb5d/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/557eb28e58ea701ed3e7b1d827d36107/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/f935106c2b4fa8baea5aa8af14d2b13f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/f8948b0232052db3e7b8f03c891701f8/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/853d26324799c26871954791069483df/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0136ca65841c199e13145e51c5d77d51/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/a7ed0ca913094dcd572a2a491ee77296/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/9e4ba8edcf27848e4358a1aaab005aeb/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/e4a94d2054024c8be95b68226af78a53/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/37caa00d68abfda0e932890140749490/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/e1d01877c650a22b3c257891754df4cc/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/d5c8fd7656d2d781dd0b283b433d864f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/bde85ae55f6557b57d2583fe07d581aa/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/aaebdf12f89ffa22d526c59842f63ce2/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/cfc7a075599825242ccb3bf9049138d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/942ae5bb408d75da4f7f89b1ab4a5794/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/3f7255e5c39577612d42757c6a1a973c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:5:5-47:19
+MERGED from [androidx.core:core:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0136ca65841c199e13145e51c5d77d51/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0136ca65841c199e13145e51c5d77d51/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/9e4ba8edcf27848e4358a1aaab005aeb/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/9e4ba8edcf27848e4358a1aaab005aeb/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0136ca65841c199e13145e51c5d77d51/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:10:9-40
+activity#ds.com.advanceappmanager.MainActivity
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:15:27-74
+receiver#ds.com.advanceappmanager.receivers.AppReceiver
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:19:9-38:20
+	android:enabled
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:21:13-35
+	android:exported
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:20:13-74
+intent-filter#action:name:android.intent.action.PACKAGE_REPLACED+data:scheme:package
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:24:17-81
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:24:25-78
+data
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:26:17-50
+	android:scheme
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:26:23-47
+intent-filter#action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:29:17-80
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:29:25-77
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:34:17-78
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:34:25-75
+service#services.MyService
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:40:9-43:47
+	android:enabled
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:41:13-46
+meta-data#io.fabric.ApiKey
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:44:9-46:72
+	android:value
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:46:13-69
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:45:13-44
+uses-permission#android.permission.INTERNET
+ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:49:5-67
+	android:name
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml:49:22-64
+uses-sdk
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/383837a1f189d10df3511e6927171459/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/383837a1f189d10df3511e6927171459/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/be758b882f94fdc8fda8b461dcaf0c83/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/be758b882f94fdc8fda8b461dcaf0c83/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/88d46ce597d410c8d9a1addcd2777129/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/88d46ce597d410c8d9a1addcd2777129/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/78948776546368d752f57d4af80cff4f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/78948776546368d752f57d4af80cff4f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/6185f9922dbdec258d755400505a7480/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/6185f9922dbdec258d755400505a7480/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/922d0a7a738b37f00ad7e7b4cbbdb0f3/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/922d0a7a738b37f00ad7e7b4cbbdb0f3/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/17b125378fc55b264e31eccaff8fa6ca/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/17b125378fc55b264e31eccaff8fa6ca/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/5e8839c5fdf906c0d681ada18dc250c8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/5e8839c5fdf906c0d681ada18dc250c8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/955a6585d7a9c18d6bf6a87f6ee65069/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/955a6585d7a9c18d6bf6a87f6ee65069/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/4536f117103b705f94cfbc0bddba178d/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/4536f117103b705f94cfbc0bddba178d/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/b62690d9dde2a6a00a94a6af7c0f163c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/b62690d9dde2a6a00a94a6af7c0f163c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/36abab4db82c302e39d424a4f8f4e29e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/36abab4db82c302e39d424a4f8f4e29e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/4d1cf7827ab5fc64a2e749e21bd2db69/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/4d1cf7827ab5fc64a2e749e21bd2db69/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/240b5d9dac701614a3199e1fe97e5b6c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/240b5d9dac701614a3199e1fe97e5b6c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/6d12fcce36df08538717b88e14b43a49/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/6d12fcce36df08538717b88e14b43a49/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/27bb1a82a352fcc4ad1c98b891d7bb5d/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/27bb1a82a352fcc4ad1c98b891d7bb5d/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/557eb28e58ea701ed3e7b1d827d36107/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/557eb28e58ea701ed3e7b1d827d36107/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/f935106c2b4fa8baea5aa8af14d2b13f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/f935106c2b4fa8baea5aa8af14d2b13f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/f8948b0232052db3e7b8f03c891701f8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/f8948b0232052db3e7b8f03c891701f8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/853d26324799c26871954791069483df/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/853d26324799c26871954791069483df/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0136ca65841c199e13145e51c5d77d51/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0136ca65841c199e13145e51c5d77d51/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/a7ed0ca913094dcd572a2a491ee77296/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/a7ed0ca913094dcd572a2a491ee77296/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/9e4ba8edcf27848e4358a1aaab005aeb/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/9e4ba8edcf27848e4358a1aaab005aeb/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/e4a94d2054024c8be95b68226af78a53/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/e4a94d2054024c8be95b68226af78a53/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/37caa00d68abfda0e932890140749490/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/37caa00d68abfda0e932890140749490/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/e1d01877c650a22b3c257891754df4cc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/e1d01877c650a22b3c257891754df4cc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/d5c8fd7656d2d781dd0b283b433d864f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/d5c8fd7656d2d781dd0b283b433d864f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/bde85ae55f6557b57d2583fe07d581aa/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/bde85ae55f6557b57d2583fe07d581aa/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/aaebdf12f89ffa22d526c59842f63ce2/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/aaebdf12f89ffa22d526c59842f63ce2/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/cfc7a075599825242ccb3bf9049138d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/cfc7a075599825242ccb3bf9049138d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/942ae5bb408d75da4f7f89b1ab4a5794/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/942ae5bb408d75da4f7f89b1ab4a5794/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/3f7255e5c39577612d42757c6a1a973c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nykaa/.gradle/caches/transforms-2/files-2.1/3f7255e5c39577612d42757c6a1a973c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+		ADDED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nykaa/Documents/AdvanceAppManager_DEV/app/src/main/AndroidManifest.xml

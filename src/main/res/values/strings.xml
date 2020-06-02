@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Advance App Manager</string>
+    <string name="title_section1">Installed</string>
+    <string name="title_section2">Updated</string>
+    <string name="title_section3">Uninstalled</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
